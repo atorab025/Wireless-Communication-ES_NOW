@@ -1,7 +1,7 @@
 # Wireless Communication System Using ESP32 and ESP-NOW Protocol
 
 ## Overview
-This project implements a wireless communication system using **ESP32 microcontrollers** and the **[ESP-NOW protocol](images/1.png)**. The system consists of **one Master ESP32** and **three Slave ESP32 devices**, enabling seamless communication between the nodes for controlling LEDs, sending button states, and managing a call queue.
+This project implements a wireless communication system using **ESP32 microcontrollers** and the **ESP-NOW protocol**. The system consists of **one Master ESP32** and **three Slave ESP32 devices**, enabling seamless communication between the nodes for controlling LEDs, sending button states, and managing a call queue.
 
 The system is designed for low-latency communication and does not require Wi-Fi or internet connectivity, making it ideal for local applications.
 
