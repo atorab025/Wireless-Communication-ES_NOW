@@ -18,6 +18,7 @@ The system is designed for low-latency communication and does not require Wi-Fi 
 - **Queue Status LED**: Visual indication of active queue status using an onboard LED.
 - **Button Control**: Each Slave has dedicated buttons for sending commands to the Master.
 
+![image alt](https://github.com/atorab025/Wireless-Communication-ES_NOW/blob/50a527b174e7c4b528da7a6aafd945c39a30d5e0/images/2.PNG)
 ---
 
 ## Components Used
@@ -26,8 +27,9 @@ The system is designed for low-latency communication and does not require Wi-Fi 
 3. **Buttons**: To trigger data transmissions.
 4. **Buzzer**: To alert the Master of incoming requests.
 5. **I2C LCD (16x2)**: Displays the current queue status on the Master.
-6. **Miscellaneous**: Resistors, wires, breadboards.
+6. **Miscellaneous**: Resistors, wires, breadboard.
 
+![image alt](https://github.com/atorab025/Wireless-Communication-ES_NOW/blob/50a527b174e7c4b528da7a6aafd945c39a30d5e0/images/ESP32Wroom.PNG)
 ---
 
 ## Hardware Setup
