@@ -5,7 +5,7 @@ This project implements a wireless communication system using **ESP32 microcontr
 
 The system is designed for low-latency communication and does not require Wi-Fi or internet connectivity, making it ideal for local applications.
 
-https://github.com/atorab025/Wireless-Communication-ES_NOW/blob/9922be9e9907eef7e0eca7f7d23da9811e65320a/images/1.PNG
+![image alt](https://github.com/atorab025/Wireless-Communication-ES_NOW/blob/9922be9e9907eef7e0eca7f7d23da9811e65320a/images/1.PNG)
 
 ---
 
