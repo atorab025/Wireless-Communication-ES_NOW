@@ -114,5 +114,3 @@ The system is designed for low-latency communication and does not require Wi-Fi 
 - Implement power-saving features for Slaves using deep sleep.
 
 ---
-
-Feel free to ask for additional details or customizations!
